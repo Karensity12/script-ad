@@ -13,6 +13,8 @@ class Persona():
     def asignarGenero(self,genero):
         self.__genero = genero
 
+    #holii
+
     # getters 
     def verNombre(self): 
         return self.__nombre
